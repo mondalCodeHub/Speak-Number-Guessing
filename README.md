@@ -11,15 +11,21 @@ I used the``speechRecognition`` API for speech recognition.
 ## Screenshots
 (01)
 
-
+![Screenshot (2159)](https://user-images.githubusercontent.com/88100576/201508605-3272af00-93b8-4ed8-aedf-a3cf2addffc8.png)
 
 (02)
+
+![Screenshot (2160)](https://user-images.githubusercontent.com/88100576/201508624-f9b76571-8c0b-4719-9351-98e43922edd3.png)
+
+
+
 ## Code By
+
 Arup Mondal ([@mondalCodeHub](https://www.github.com/mondalCodeHub))
 
 
 ## Reference & Support
-Brad Traversy's ([@bradtraversy](https://github.com/bradtraversy))                      course(udemy) was a huge help in developing this web application.
+Brad Traversy's ([@bradtraversy](https://github.com/bradtraversy)) course was a huge help in developing this web application.
 
 SpeechRecognition API :
   https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
