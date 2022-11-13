@@ -14,12 +14,12 @@ I used the``speechRecognition`` API for speech recognition.
 
 
 (02)
-## Created By
-Arup Mondal(@mondalcodehub)
+## Code By
+Arup Mondal ([@mondalCodeHub](https://www.github.com/mondalCodeHub))
 
 
 ## Reference & Support
-Brad Traversy's course(udemy) was a huge help in developing this web application.
+Brad Traversy's ([@bradtraversy](https://github.com/bradtraversy))                      course(udemy) was a huge help in developing this web application.
 
 SpeechRecognition API :
   https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
